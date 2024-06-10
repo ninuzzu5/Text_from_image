@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5EGUx4DEXncbgLpNCx74iUSsrUXO2f8FY21NiFF4hijF4L6x9xM2dH95gdLXv4lvnLT5igM0r891KNK6daU2Q==",
+  "success": true,
+  "projectFilePath": "/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/prova.csproj",
+  "expectedPackageFiles": [
+    "/Users/ninuzzu_/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/cliwrap/3.6.6/cliwrap.3.6.6.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/Users/ninuzzu_/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}

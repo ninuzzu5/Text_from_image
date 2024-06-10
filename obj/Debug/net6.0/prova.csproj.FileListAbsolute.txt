@@ -1,0 +1,70 @@
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/prova
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/prova.deps.json
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/prova.runtimeconfig.json
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/prova.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/prova.pdb
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/AtkSharp.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/CairoSharp.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/GdkSharp.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/GioSharp.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/GLibSharp.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/GtkSharp.dll
+/Users/ninuzzu_/Documents/prova/bin/Debug/net6.0/PangoSharp.dll
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.csproj.AssemblyReference.cache
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.AssemblyInfoInputs.cache
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.AssemblyInfo.cs
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.csproj.CoreCompileInputs.cache
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.csproj.Up2Date
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.dll
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/refint/prova.dll
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.pdb
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/prova.genruntimeconfig.cache
+/Users/ninuzzu_/Documents/prova/obj/Debug/net6.0/ref/prova.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/prova
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/prova.deps.json
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/prova.runtimeconfig.json
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/prova.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/prova.pdb
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/AtkSharp.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/CairoSharp.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/GdkSharp.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/GioSharp.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/GLibSharp.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/GtkSharp.dll
+/Users/ninuzzu_/Documents/Project Work/bin/Debug/net6.0/PangoSharp.dll
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.csproj.AssemblyReference.cache
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.AssemblyInfoInputs.cache
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.AssemblyInfo.cs
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.csproj.CoreCompileInputs.cache
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.csproj.Up2Date
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.dll
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/refint/prova.dll
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.pdb
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/prova.genruntimeconfig.cache
+/Users/ninuzzu_/Documents/Project Work/obj/Debug/net6.0/ref/prova.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/prova
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/prova.deps.json
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/prova.runtimeconfig.json
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/prova.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/prova.pdb
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/AtkSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/CairoSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/GdkSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/GioSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/GLibSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/GtkSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/PangoSharp.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.csproj.AssemblyReference.cache
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.AssemblyInfoInputs.cache
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.AssemblyInfo.cs
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.csproj.CoreCompileInputs.cache
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.csproj.Up2Date
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/refint/prova.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.pdb
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/prova.genruntimeconfig.cache
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/obj/Debug/net6.0/ref/prova.dll
+/Users/ninuzzu_/Desktop/ninuzzu_/Code/Project Work/Programma/bin/Debug/net6.0/CliWrap.dll
